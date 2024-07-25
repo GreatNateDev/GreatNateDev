@@ -19,8 +19,8 @@
 - LeafGreen
 -  Emerald
 -  ~~Diamond~~
--   Pear
--   l ~~Platinum~~
+-   Pearl
+- ~~Platinum~~
 -    ~~HeartGold~~
 - SoulSilver
 -  __White__
