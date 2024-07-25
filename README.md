@@ -7,5 +7,5 @@
 - I will get back to working on CoolBlue but maybe not The Adventures Of Phoenix
 - The secret project is related to pokemon ooo
 - Beating every pokemon game before legends ZA comes out. Including:
-- Red Blue Yellow Gold Silver Crystal Ruby Sapphire FireRed LeafGreen Emerald ~~Diamond~~ Pearl ~~Platinum~~ ~~HeartGold~~ SoulSilver \underline{White} Black White 2 Black 2 ~~X~~ Y ~~Omega Ruby~~ Alpha Sapphire Sun Moon Ultra Sun ~~Ultra Moon~~ Lets Go Pikachu Lets Go Eevee Sword Shield Brillent Diamond Shining Pearl ~~Arceus~~ Scarlet Violet
+- Red Blue Yellow Gold Silver Crystal Ruby Sapphire FireRed LeafGreen Emerald ~~Diamond~~ Pearl ~~Platinum~~ ~~HeartGold~~ SoulSilver __White__ Black White 2 Black 2 ~~X~~ Y ~~Omega Ruby~~ Alpha Sapphire Sun Moon Ultra Sun ~~Ultra Moon~~ Lets Go Pikachu Lets Go Eevee Sword Shield Brillent Diamond Shining Pearl ~~Arceus~~ Scarlet Violet
 - Strikethroughing the ones i have beaten and underlineing the ones im on
