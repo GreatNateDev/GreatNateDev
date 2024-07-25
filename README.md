@@ -39,7 +39,7 @@
 -  Lets Go Eevee
 -   Sword
 -    Shield
--     Brillent Diamond
+- Brillent Diamond
 -  Shining Pearl
 -   ~~Arceus~~
 -    Scarlet
