@@ -23,14 +23,14 @@
 - ~~Platinum~~
 -    ~~HeartGold~~
 - SoulSilver
--  __White__
+-  ~~White~~
 -   Black
 -    White 2
 -   Black 2
 -   ~~X~~
 -    Y
 -  ~~Omega Ruby~~
--  Alpha Sapphire
+-  __Alpha Sapphire__
 -   Sun
 -   Moon
 -    Ultra Sun
