@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C/C++ and gdscript/godot
 - 📫 How to reach me: Make an issue in the https://github.com/GreatNateDev/GreatNateDev
 - I will get back to working on CoolBlue but maybe not The Adventures Of Phoenix
-- The secret project is related to pokemon ooo
+- The secret project is related to pokemon ooo (as of this commit 142 commits into said secret project)
 - Beating every pokemon game before legends ZA comes out. Including:
 - __Red__
 - Blue
