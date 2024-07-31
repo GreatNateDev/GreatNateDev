@@ -5,7 +5,7 @@
 - I will get back to working on CoolBlue but maybe not The Adventures Of Phoenix
 - The secret project is related to pokemon ooo
 - Beating every pokemon game before legends ZA comes out. Including:
-- Red
+- __Red__
 - Blue
 -  Yellow
 -   Gold
