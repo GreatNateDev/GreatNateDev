@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C/C++ and gdscript/godot
 - 📫 How to reach me: Make an issue in the https://github.com/GreatNateDev/GreatNateDev
 - I will get back to working on CoolBlue but maybe not The Adventures Of Phoenix
-- Pokemon Battle Mode my biggest project yet is now out for version 0.2 
+- Pokemon Battle Mode my biggest project yet is now out for version 0.4 working on 0.5
 - Beating every pokemon game before legends ZA comes out. Including:
 - __Red__
 - Blue
