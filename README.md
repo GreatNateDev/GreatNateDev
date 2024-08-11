@@ -23,12 +23,12 @@
 - SoulSilver
 -  ~~White~~
 -   Black
--    White 2
+-    __White 2__
 -   Black 2
 -   ~~X~~
 -    Y
 -  ~~Omega Ruby~~
--  __Alpha Sapphire__
+-  ~~Alpha Sapphire~~
 -   Sun
 -   Moon
 -    Ultra Sun
