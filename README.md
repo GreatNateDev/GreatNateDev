@@ -1,10 +1,10 @@
 ## Hello! 👋
 - 🔭 I’m currently working on A cool godot project that hasnt been made public yet
-- 🌱 I’m currently learning C/C++ and gdscript/godot
+- 🌱 I’m currently learning C/C++ and gdscript/godot and RUST and Fullstack web dev
 - 📫 How to reach me: Make an issue in the https://github.com/GreatNateDev/GreatNateDev
-- Pokemon Battle Quest my biggest project yet is now out for version 0.10 BETA
+- Pokemon Battle Quest my biggest project yet is now out for version 0.11
 - Beating every pokemon game before legends ZA comes out. Including:
-- __Red__
+- ~~Red~~
 - Blue
 -  Yellow
 -   Gold
@@ -19,16 +19,16 @@
 -   Pearl
 - ~~Platinum~~
 -    ~~HeartGold~~
-- SoulSilver
+- __SoulSilver__
 -  ~~White~~
 -   Black
--    __White 2__
+-    ~~White 2~~
 -   Black 2
 -   ~~X~~
--    Y
+-    __Y__
 -  ~~Omega Ruby~~
 -  ~~Alpha Sapphire~~
--   Sun
+-   __Sun__
 -   Moon
 -    Ultra Sun
 - ~~Ultra Moon~~
