@@ -15,11 +15,10 @@
 - LeafGreen
 -  Emerald
 -   Pearl
-- __SoulSilver__
 -   Black
 -   Black 2
 -    __Y__
--   __Sun__
+-   Sun
 -   Moon
 -    Ultra Sun
 -  Lets Go Pikachu
