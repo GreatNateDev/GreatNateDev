@@ -54,7 +54,7 @@
 <p align="left">- Beating every pokemon game before legends ZA comes out. The bold ones are the ones im currently working on and the rest are ones i havent started<br>
 - Blue<br>
 -  Yellow<br>
--   Gold<br>
+-   <b>Gold</b><br>
 -    Silver<br>
 - Crystal<br>
 -  Ruby<br>
@@ -65,7 +65,7 @@
 -   Pearl<br>
 -   Black<br>
 -   Black 2<br>
--    <b>Y</b><br>
+-    Y<br>
 -   Sun<br>
 -   Moon<br>
 -    Ultra Sun<br>
