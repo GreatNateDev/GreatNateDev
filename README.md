@@ -59,14 +59,13 @@
 -  <b>Ruby</b><br>
 -   Sapphire<br>
 -    FireRed<br>
-- LeafGreen<br>
+- <b>LeafGreen</b><br>
 -  Emerald<br>
 -   Pearl<br>
 -   Black<br>
 -   Black 2<br>
 -    Y<br>
 -   Sun<br>
--   Moon<br>
 -    Ultra Sun<br>
 -  Lets Go Pikachu<br>
 -  Lets Go Eevee<br>
@@ -74,7 +73,7 @@
 -    Shield<br>
 - Brillent Diamond<br>
 -  Shining Pearl<br>
--    Scarlet<br>
+-    <b>Scarlet</b><br>
 -    Violet<br>
 </p>
 
