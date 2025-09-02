@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Homeschooled Highschool Student<br>I am interested in all things Pokemon and tech<br>I am currently learning Cybersecurity and Gdscript<br>I am working on a desktop/mobile pokemon battle sim<br>
+I am interested in all things CyberSecurity and tech<br>I am currently learning Rust, Gdscript, and Go
 
 
 # 💻 Tech Stack:
