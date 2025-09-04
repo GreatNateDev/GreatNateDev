@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Go, Rust**
 
-- 👨‍💻 All of my projects are available at [https://github.com/GreatNateDev?tab=repositories](https://github.com/GreatNateDev?tab=repositories)
+- 👨‍💻 All of my projects are [here](https://github.com/GreatNateDev?tab=repositories)
 
 - ⚡ Fun fact **My computer is very old**
 
