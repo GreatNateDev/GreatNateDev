@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=greatnatedev&label=Profile%20views&color=0e75b6&style=flat" alt="greatnatedev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=greatnatedev&theme=dark" alt="greatnatedev" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=greatnatedev&theme=dracula" alt="greatnatedev" /></a> </p>
 
 - 🔭 I’m currently working on [Battle-Client](https://github.com/GreatNateDev/Battle-Client) and [Battle-Server](https://github.com/GreatNateDev/Battle-Server)
 
