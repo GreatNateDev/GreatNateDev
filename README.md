@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=greatnatedev" alt="greatnatedev" /></a> </p>
 
-- 🔭 I’m currently working on [Battle-Client and Battle-Server](https://github.com/GreatNateDev/Battle-Client https://github.com/GreatNateDev/Battle-Server)
+- 🔭 I’m currently working on [Battle-Client](https://github.com/GreatNateDev/Battle-Client) and [Battle-Server](https://github.com/GreatNateDev/Battle-Server)
 
 - 🌱 I’m currently learning **Go, Rust**
 
