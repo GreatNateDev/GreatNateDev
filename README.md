@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=greatnatedev&theme=dracula" alt="greatnatedev" /></a> </p>
 
-- 🔭 I’m currently working on [Battle-Client](https://github.com/GreatNateDev/Battle-Client) and [Battle-Server](https://github.com/GreatNateDev/Battle-Server)
+- 🔭 I’m currently working on [Nixos](https://github.com/GreatNateDev/nixos) and [Scripts](https://github.com/GreatNateDev/scripts)
 
-- 🌱 I’m currently learning **Go, Rust**
+- 🌱 I’m currently learning **Nix, Go, Rust**
 
 - 👨‍💻 All of my projects are [here](https://github.com/GreatNateDev?tab=repositories)
 
