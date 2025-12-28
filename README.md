@@ -10,9 +10,3 @@
 - 👨‍💻 All of my projects are [here](https://github.com/GreatNateDev?tab=repositories)
 
 - ⚡ Fun fact **My computer is very old**
-
-<h3 align="left">Stats: </h3>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=greatnatedev&show_icons=true&locale=en&layout=compact&theme=dracula" alt="greatnatedev" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=greatnatedev&show_icons=true&locale=en&theme=dracula" alt="greatnatedev" /></p>
