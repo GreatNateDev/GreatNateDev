@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=greatnatedev&label=Profile%20views&color=0e75b6&style=flat" alt="greatnatedev" /> </p>
 
-- 🔭 I’m currently working on [Nixos](https://github.com/GreatNateDev/nixos) and [Scripts](https://github.com/GreatNateDev/scripts)
+- 🔭 I’m currently working on [Nixos](https://github.com/GreatNateDev/nixos)
 
 - 🌱 I’m currently learning **Nix, Go, Rust**
 
