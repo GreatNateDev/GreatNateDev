@@ -2,10 +2,11 @@
 
 import asyncio
 import os
-from typing import Dict, List, Optional, Set, Tuple, Any, cast
+from typing import Any, Dict, List, Optional, Set, Tuple, cast
 
 import aiohttp
 import requests
+
 
 class Queries(object):
     """
@@ -82,7 +83,7 @@ class Queries(object):
                         params=tuple(params.items()),
                     )
                 if r_async.status == 202:
-                    print(f"A path returned 202. Retrying...")
+                    print("A path returned 202. Retrying...")
                     await asyncio.sleep(2)
                     continue
 
@@ -98,7 +99,7 @@ class Queries(object):
                         params=tuple(params.items()),
                     )
                     if r_requests.status_code == 202:
-                        print(f"A path returned 202. Retrying...")
+                        print("A path returned 202. Retrying...")
                         await asyncio.sleep(2)
                         continue
                     elif r_requests.status_code == 200:
@@ -124,7 +125,7 @@ class Queries(object):
             direction: DESC
         }},
         isFork: false,
-        after: {"null" if owned_cursor is None else '"'+ owned_cursor +'"'}
+        after: {"null" if owned_cursor is None else '"' + owned_cursor + '"'}
     ) {{
       pageInfo {{
         hasNextPage
@@ -160,7 +161,7 @@ class Queries(object):
             REPOSITORY,
             PULL_REQUEST_REVIEW
         ]
-        after: {"null" if contrib_cursor is None else '"'+ contrib_cursor +'"'}
+        after: {"null" if contrib_cursor is None else '"' + contrib_cursor + '"'}
     ) {{
       pageInfo {{
         hasNextPage
@@ -507,6 +508,7 @@ Languages:
         self._views = total
         return total
 
+
 async def main() -> None:
     """
     Used mostly for testing; this module is not usually run standalone
@@ -518,7 +520,13 @@ async def main() -> None:
             "ACCESS_TOKEN and GITHUB_ACTOR environment variables cannot be None!"
         )
     async with aiohttp.ClientSession() as session:
-        s = Stats(user, access_token, session)
+        s = Stats(
+            user,
+            access_token,
+            session,
+            ignore_forked_repos=True,
+            exclude_repos=set(),
+        )
         print(await s.to_str())
 
 
