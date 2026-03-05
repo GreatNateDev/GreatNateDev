@@ -1,4 +1,4 @@
-name: GitHub Stats and README Update
+name: GitHub Stats
 
 on:
   push:
@@ -43,13 +43,6 @@ jobs:
           git add .
           git commit -m 'Update stats images' || echo "No changes to commit"
           git push --force-with-lease
-
-  update_readme:
-    name: Update README with Recent Activity
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: actions/checkout@v4
 
       - uses: jamesgeorge007/github-activity-readme@master
         env:
