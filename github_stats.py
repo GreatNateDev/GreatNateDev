@@ -108,85 +108,47 @@ class Queries(object):
         return dict()
 
     @staticmethod
-    def repos_overview(
-        contrib_cursor: Optional[str] = None, owned_cursor: Optional[str] = None
-    ) -> str:
+    def repos_overview(owned_cursor: Optional[str] = None) -> str:
         """
-        :return: GraphQL query with overview of user repositories
+        :return: GraphQL query with overview of user repositories (excluding contributed repos)
         """
         return f"""{{
-  viewer {{
-    login,
-    name,
-    repositories(
-        first: 100,
-        orderBy: {{
-            field: UPDATED_AT,
-            direction: DESC
-        }},
-        isFork: false,
-        after: {"null" if owned_cursor is None else '"' + owned_cursor + '"'}
-    ) {{
-      pageInfo {{
-        hasNextPage
-        endCursor
-      }}
-      nodes {{
-        nameWithOwner
-        stargazers {{
-          totalCount
-        }}
-        forkCount
-        languages(first: 10, orderBy: {{field: SIZE, direction: DESC}}) {{
-          edges {{
-            size
-            node {{
-              name
-              color
+      viewer {{
+        login,
+        name,
+        repositories(
+            first: 100,
+            orderBy: {{
+                field: UPDATED_AT,
+                direction: DESC
+            }},
+            isFork: false,
+            after: {"null" if owned_cursor is None else '"' + owned_cursor + '"'}
+        ) {{
+          pageInfo {{
+            hasNextPage
+            endCursor
+          }}
+          nodes {{
+            nameWithOwner
+            stargazers {{
+              totalCount
+            }}
+            forkCount
+            languages(first: 10, orderBy: {{field: SIZE, direction: DESC}}) {{
+              edges {{
+                size
+                node {{
+                  name
+                  color
+                }}
+              }}
             }}
           }}
         }}
       }}
     }}
-    repositoriesContributedTo(
-        first: 100,
-        includeUserRepositories: false,
-        orderBy: {{
-            field: UPDATED_AT,
-            direction: DESC
-        }},
-        contributionTypes: [
-            COMMIT,
-            PULL_REQUEST,
-            REPOSITORY,
-            PULL_REQUEST_REVIEW
-        ]
-        after: {"null" if contrib_cursor is None else '"' + contrib_cursor + '"'}
-    ) {{
-      pageInfo {{
-        hasNextPage
-        endCursor
-      }}
-      nodes {{
-        nameWithOwner
-        stargazers {{
-          totalCount
-        }}
-        forkCount
-        languages(first: 10, orderBy: {{field: SIZE, direction: DESC}}) {{
-          edges {{
-            size
-            node {{
-              name
-              color
-            }}
-          }}
-        }}
-      }}
-    }}
-  }}
-}}
-"""
+    """
 
     @staticmethod
     def contrib_years() -> str:
