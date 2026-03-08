@@ -129,7 +129,7 @@
 
           <div>
             <span class="progress">
-              <span style="background-color: #7e7eff;width: 41.022%;" class="progress-item"></span><span style="background-color: #355570;width: 26.087%;" class="progress-item"></span><span style="background-color: #3572A5;width: 11.205%;" class="progress-item"></span><span style="background-color: #89e051;width: 9.956%;" class="progress-item"></span><span style="background-color: #00ADD8;width: 5.106%;" class="progress-item"></span><span style="background-color: #000080;width: 4.439%;" class="progress-item"></span><span style="background-color: #dea584;width: 1.972%;" class="progress-item"></span><span style="background-color: #384d54;width: 0.214%;" class="progress-item"></span>
+              <span style="background-color: #7e7eff;width: 40.974%;" class="progress-item"></span><span style="background-color: #355570;width: 26.108%;" class="progress-item"></span><span style="background-color: #3572A5;width: 11.214%;" class="progress-item"></span><span style="background-color: #89e051;width: 9.964%;" class="progress-item"></span><span style="background-color: #00ADD8;width: 5.110%;" class="progress-item"></span><span style="background-color: #000080;width: 4.442%;" class="progress-item"></span><span style="background-color: #dea584;width: 1.973%;" class="progress-item"></span><span style="background-color: #384d54;width: 0.214%;" class="progress-item"></span>
             </span>
           </div>
 
@@ -140,7 +140,7 @@
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Nix</span>
-<span class="percent">41.02%</span>
+<span class="percent">40.97%</span>
 </li>
 
 
@@ -149,7 +149,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">GDScript</span>
-<span class="percent">26.09%</span>
+<span class="percent">26.11%</span>
 </li>
 
 
