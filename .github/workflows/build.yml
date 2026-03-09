@@ -44,6 +44,3 @@ jobs:
           git commit -m 'Update stats images' || echo "No changes to commit"
           git push --force-with-lease
 
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
