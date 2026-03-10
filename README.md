@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nate</h1>
-<h3 align="center">A Hobbyist Developer from the US</h3>
+<h1 align="center">Hi 👋, I'm Null</h1>
+<h3 align="center">A NixOS ricer and HomeLabber</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=greatnatedev&label=Profile%20views&color=0e75b6&style=flat" alt="greatnatedev" /> </p>
 
