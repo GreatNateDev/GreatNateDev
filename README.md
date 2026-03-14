@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=greatnatedev&label=Profile%20views&color=0e75b6&style=flat" alt="greatnatedev" /> </p>
 
-- 🔭 I’m currently working on [Nixos](https://github.com/GreatNateDev/nixos)
+- 🔭 I’m currently working on [Nixos](https://github.com/ExtraBytez/nixos)
 
 - 🌱 I’m currently learning **Nix, Go, Rust**
 
-- 👨‍💻 All of my projects are [here](https://github.com/GreatNateDev?tab=repositories)
+- 👨‍💻 All of my projects are [here](https://github.com/ExtraBytez?tab=repositories)
 
 - ⚡ Fun fact **My computer is very old**
 
